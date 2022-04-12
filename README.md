@@ -1,4 +1,4 @@
-## CPSC 304 Project: Group 24
+## LinkedOut - A CPSC 304 Project (Group 24)
 Group members: Kevin Nguyen, Colton Quan, Amy Yung
 
 ### Welcome to...LinkedOut
